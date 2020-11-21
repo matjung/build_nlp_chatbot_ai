@@ -1,4 +1,4 @@
-# Project Title
+# build_nlp_chatbot_ai
 
 Final project for the Building AI course
 build_nlp_chatbot_ai
